@@ -46,7 +46,7 @@ The **dates** below represent the due date to finish the topics and be ready for
 
 * The course contents are provided via a [website](https://3dgeo-heidelberg.github.io/etrainee_heidelberg_2025/index.html) (which you are probably on right now).
 
-* This website is automatically generated from the corresponding **Github repository**: [https://github.com/3dgeo-heidelberg/etrainee\_heidelberg\_2025](\[https://courses.gistools.geog.uni-heidelberg.de/e-trainee/time-series-analysis-in-remote-sensing]\(https://github.com/3dgeo-heidelberg/etrainee_heidelberg_2025\)). The repository is linked at the top right of the website on all pages.
+* This website is automatically generated from the corresponding **Github repository**: [https://github.com/3dgeo-heidelberg/etrainee\_heidelberg\_2025](https://github.com/3dgeo-heidelberg/etrainee\_heidelberg\_2025). The repository is linked at the top right of the website on all pages.
 
 * Some parts of the course are conducted in **Jupyter Notebooks**. These are static pages on the website, but it is recommended that you follow them interactively. Use the **download button** at the top of the respective pages (e.g., [here](https://3dgeo-heidelberg.github.io/etrainee_heidelberg_2025/module3/02_pointcloud_programming_python/exercise/m3_theme2_exercise1.html)). This will open the raw file in your browser, just right click and use "Save page as / Seite speichern unter..." to store the ipynb file.
 
