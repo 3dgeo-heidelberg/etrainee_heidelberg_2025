@@ -56,7 +56,7 @@ The **dates** below represent the due date to finish the topics and be ready for
 
 ## Set up your Python conda environment
 
-Installation instructions and links to the respective conda environments are given in the [software section](https://3dgeo-heidelberg.github.io/etrainee/software/software_python.html) of this course.
+Installation instructions and links to the respective conda environments are given in the [software section](https://3dgeo-heidelberg.github.io/etrainee_heidelberg_2025/software/software_python.html) of this course.
 
 ## Data Repository
 
