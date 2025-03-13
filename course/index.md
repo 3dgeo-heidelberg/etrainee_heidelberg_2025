@@ -20,7 +20,7 @@ The course consists of **two selected modules of a larger e-learning course** ca
 
 * Hybrid meetings: INF 348 / R13 or heiCONF (link is provided by lecturer)
 
-* 14:15h - end of Q\&A and discussions
+* 14:15h - end of Q&A and discussions
 
 The **dates** below represent the due date to finish the topics and be ready for the feedback meeting.
 
